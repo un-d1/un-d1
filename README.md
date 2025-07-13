@@ -1,4 +1,5 @@
- <h2 align="right">Hey! I’m : Belal, Known As : Undefined / البلبل للخدمات البرمجية</h2>
+ <h1 align="left">Hey!
+  I’m : Belal, Known As : Undefined / البلبل للخدمات البرمجية</h2>
 
 ###
 
@@ -10,13 +11,15 @@
 
 ###
 
-![Discord Widget](https://discord.c99.nl/widget/theme-4/YOUR_DISCORD_ID.png)
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1298609266512629791.png" />
+</div>
 
 ###
 
 <h3 align="left">My Projects :</h3>
 
-<h4 align="left">Currently Not Uploaded On GitHub.!</h4>
+<h5 align="left">Currently Not Uploaded On GitHub.!</h4>
 
 ###
 
@@ -31,8 +34,7 @@
 <h3 align="left">Automation :</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="ChromeDriver" />
+    <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
 </p>
 
 ###
